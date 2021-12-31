@@ -6,7 +6,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=zachtheyek&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="zachtheyek's GitHub stats" align="right" />
 </a>
 
-- :office: &nbsp;Currently based in **Fredonia, NY**
+- :pushpin: &nbsp;Currently based in **Fredonia, NY**
 - :mortar_board: &nbsp;Completing a **B.S.** in **Physics**
 - :robot: &nbsp;Passionate about **Data Science** and **Machine Learning**
 - :snake: &nbsp;Preferred workflow: **VSCode** + **Python3** + **Jupyter**
@@ -25,3 +25,10 @@
 - [(OOTO) Dynamic Spectra Sequence Modelling with Transformers](https://zenodo.org/record/5146378#.Yc-J6RPMLyg)
 - [Developing CCD Camera Linearity Corrections for the Fredonia Observatory](https://drive.google.com/file/d/1ajT-LWmNLsxO6jZEuVrSgr9_bihbHnkf/view?usp=sharing)
 - [Detection of a Disk Surrounding the Variably Accreting Young Star HBC722](https://iopscience.iop.org/article/10.3847/2515-5172/abb813)
+
+<br>
+
+<<h2 align="left">:battery: Pinned repositories: </h3>>
+
+- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zachtheyek&repo=autoSETI&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
