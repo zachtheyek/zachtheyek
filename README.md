@@ -30,5 +30,5 @@
 
 <h2 align="left">:battery: Pinned repositories: </h2>
 
-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zachtheyek&repo=autoSETI&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zachtheyek&repo=DecisionTreeClassifier&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zachtheyek&repo=autoSETI&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zachtheyek&repo=DecisionTreeClassifier&theme=react)](https://github.com/anuraghazra/github-readme-stats)
