@@ -16,3 +16,9 @@
 <br>
 
 [![zachtheyek's github activity graph](https://activity-graph.herokuapp.com/graph?username=zachtheyek&theme=react-dark)](https://github.com/zachtheyek)
+
+<br>
+
+<h3 align="left">Recent publications: </h3>
+- [Dynamic Spectra Sequence Modelling with Transformers](https://zenodo.org/record/5269160#.Yc9rzBNKjyh)
+- [Detection of a Disk Surrounding the Variably Accreting Young Star HBC722](https://iopscience.iop.org/article/10.3847/2515-5172/abb813)
