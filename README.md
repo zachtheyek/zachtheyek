@@ -16,7 +16,3 @@
 <br>
 
 [![zachtheyek's github activity graph](https://activity-graph.herokuapp.com/graph?username=zachtheyek&theme=react-dark)](https://github.com/zachtheyek)
-
-<br>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zachtheyek&repo=Random)](https://github.com/anuraghazra/github-readme-stats)
