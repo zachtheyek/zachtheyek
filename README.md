@@ -3,7 +3,7 @@
 
 
 <a href="#zachtheyek-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=zachtheyek&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Zach Yek" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zachtheyek&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Zach Yek's GitHub stats" align="right" />
 </a>
 
 - :office: &nbsp;Currently based in **Fredonia, NY**
@@ -14,6 +14,5 @@
 - :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/zachtheyek/)**
 
 <br>
-
 
 [![zachtheyek's github activity graph](https://activity-graph.herokuapp.com/graph?username=zachtheyek&theme=react-dark)](https://github.com/zachtheyek)
