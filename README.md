@@ -19,7 +19,7 @@
 
 <br>
 
-<h2 align="left">:mailbox: Recent publications: </h3>
+<h2 align="left">:mailbox: Recent publications: </h2>
 
 - [(WVU) Dynamic Spectra Sequence Modelling with Transformers](https://zenodo.org/record/5269160#.Yc9rzBNKjyh)
 - [(OOTO) Dynamic Spectra Sequence Modelling with Transformers](https://zenodo.org/record/5146378#.Yc-J6RPMLyg)
@@ -28,7 +28,7 @@
 
 <br>
 
-<<h2 align="left">:battery: Pinned repositories: </h3>>
+<h2 align="left">:battery: Pinned repositories: </h2>
 
 - [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zachtheyek&repo=autoSETI&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
