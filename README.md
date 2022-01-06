@@ -11,7 +11,8 @@
 - :robot: &nbsp;Passionate about **Data Science** and **Machine Learning**
 - :snake: &nbsp;Preferred workflow: **VSCode** + **Python3** + **Jupyter**
 - :fire: &nbsp;Preferred ML framework: **PyTorch**
-- :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/zachtheyek/)**
+- :computer: &nbsp; Check out my **[personal website](https://zachtheyek.github.io/)**
+- :mailbox_with_mail: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/zachtheyek/)**
 
 <br>
 
