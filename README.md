@@ -16,7 +16,9 @@
 
 <br>
 
-[![zachtheyek's github activity graph](https://activity-graph.herokuapp.com/graph?username=zachtheyek&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="#zachtheyek-title">
+  <img src="https://activity-graph.herokuapp.com/graph?username=zachtheyek&theme=react-dark" alt="zachtheyek's GitHub activity graph" />
+</a>
 
 <br>
 
