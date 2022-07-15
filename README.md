@@ -7,9 +7,9 @@
 </a>
 
 - :pushpin: &nbsp;Currently based in **Fredonia, NY**
-- :mortar_board: &nbsp;Completing a **B.S.** in **Physics**
+- :mortar_board: &nbsp;Completing a **B.S.** in **Theoretical Physics**
 - :robot: &nbsp;Passionate about **Data Science** and **Machine Learning**
-- :snake: &nbsp;Preferred workflow: **VSCode** + **Python3** + **Jupyter**
+- :snake: &nbsp;Preferred workflow: **VSCode** + **Jupyter** + **Pandas**
 - :fire: &nbsp;Preferred ML framework: **PyTorch**
 - :computer: &nbsp;Check out my **[Website](https://zachtheyek.github.io/)**
 - :mailbox_with_mail: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/zachtheyek/)**
@@ -26,8 +26,8 @@
 
 - [(WVU) Dynamic Spectra Sequence Modelling with Transformers](https://zenodo.org/record/5269160#.Yc9rzBNKjyh)
 - [(OOTO) Dynamic Spectra Sequence Modelling with Transformers](https://zenodo.org/record/5146378#.Yc-J6RPMLyg)
-- [Developing CCD Camera Linearity Corrections for the Fredonia Observatory](https://drive.google.com/file/d/1ajT-LWmNLsxO6jZEuVrSgr9_bihbHnkf/view?usp=sharing)
 - [Detection of a Disk Surrounding the Variably Accreting Young Star HBC722](https://iopscience.iop.org/article/10.3847/2515-5172/abb813)
+- [Developing CCD Camera Linearity Corrections for the Fredonia Observatory](https://drive.google.com/file/d/1ajT-LWmNLsxO6jZEuVrSgr9_bihbHnkf/view?usp=sharing)
 
 <br>
 
