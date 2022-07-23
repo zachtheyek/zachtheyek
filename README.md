@@ -8,7 +8,7 @@
 
 - :pushpin: &nbsp;Currently based in **Fredonia, NY**
 - :mortar_board: &nbsp;Completing a **B.S.** in **Theoretical Physics**
-- :man_scientist: &nbsp;Research interests: **Stellar Astronomy**, **SETI**
+- :man_scientist: &nbsp;Research interests: **Stellar Astronomy** and **SETI**
 - :robot: &nbsp;Passionate about **Data Science** and **Machine Learning**
 - :fire: &nbsp;Favorite libraries: **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**, **BigQuery**, **PyTorch**, **TensorFlow**, **XGBoost**
 - :computer: &nbsp;Check out my **[Website](https://zachtheyek.github.io/)**
