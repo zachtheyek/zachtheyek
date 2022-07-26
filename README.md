@@ -32,7 +32,7 @@
 <h3 align="left"> 2020 </h3>
 
 - [Detection of a Disk Surrounding the Variably Accreting Young Star HBC722](https://iopscience.iop.org/article/10.3847/2515-5172/abb813)
-- [Developing CCD Camera Linearity Corrections for the Fredonia Observatory](https://drive.google.com/file/d/1ajT-LWmNLsxO6jZEuVrSgr9_bihbHnkf/view?usp=sharing)
+- [Developing CCD Camera Linearity Corrections for the Fredonia Observatory](https://github.com/zachtheyek/CCD-Linearity/blob/master/Yek_Dunham_2020.pdf)
 
 <br>
 
