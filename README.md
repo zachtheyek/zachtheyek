@@ -1,5 +1,5 @@
 <h1 align="left" id="zachtheyek-title">:wave: Hello there! I'm Zach Yek (he/him)</h1>
-<h3 align="left">Research Assistant at Berkeley SETI Research Center </h3>
+<h3 align="left">Data Scientist @ Berkeley SETI Research Center </h3>
 
 
 <a href="#zachtheyek-title">
