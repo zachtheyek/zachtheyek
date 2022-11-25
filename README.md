@@ -1,16 +1,16 @@
-<h1 align="left" id="zachtheyek-title">:wave: Hello there! I'm Zach Yek (he/him)</h1>
-<h3 align="left">Data Scientist @ Berkeley SETI Research Center </h3>
+<h1 align="left" id="zachtheyek-title">:wave: Zach Yek (he/him)</h1>
+<h3 align="left">Data Scientist @ SUNY Fredonia, Ex-Berkeley </h3>
 
 
 <a href="#zachtheyek-title">
   <img src="https://github-readme-stats.vercel.app/api?username=zachtheyek&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="zachtheyek's GitHub stats" align="right" />
 </a>
 
-- :pushpin: &nbsp;Currently based in **Fredonia, NY**
+- :pushpin: &nbsp;Currently based in **Buffalo, NY**
 - :mortar_board: &nbsp;Completing a **B.S.** in **Theoretical Physics**
-- :man_scientist: &nbsp;Research interests: **Stellar Astronomy** and **SETI**
+- :man_scientist: &nbsp;Research interests: **Stellar Astronomy** & **SETI**
 - :robot: &nbsp;Passionate about solving **high-risk**, **high-impact** problems
-- :fire: &nbsp;Favorite libraries: **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**, **BigQuery**, **PyTorch**, **TensorFlow**, **XGBoost**
+- :fire: &nbsp;Favorite libraries: **Pandas**, **Numpy**, **Scikit-Learn**, **PyTorch**, **TensorFlow**, **XGBoost**, **Matplotlib**, **Seaborn**
 - :computer: &nbsp;Check out my **[Website](https://zachtheyek.github.io/)**
 - :mailbox_with_mail: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/zachtheyek/)**
 
@@ -22,17 +22,21 @@
 
 <br>
 
-<h2 align="left">:mailbox: Recent publications: </h2>
+<h2 align="left">:mailbox: Publications: </h2>
+
+<h3 align="left"> 2022 </h3>
+
+- [(White paper) Measuring Protostellar Luminosities](https://github.com/zachtheyek/Protostellar-Luminosity/blob/master/zach_yek_honors_thesis.pdf)
 
 <h3 align="left"> 2021 </h3>
 
-- [(WVU) Dynamic Spectra Sequence Modelling with Transformers](https://zenodo.org/record/5269160#.Yc9rzBNKjyh)
-- [(OOTO) Dynamic Spectra Sequence Modelling with Transformers](https://zenodo.org/record/5146378#.Yc-J6RPMLyg)
+- [(Conference) Dynamic Spectra Sequence Modelling with Transformers](https://zenodo.org/record/5269160#.Yc9rzBNKjyh)
+- [(Conference) Dynamic Spectra Sequence Modelling with Transformers](https://zenodo.org/record/5146378#.Yc-J6RPMLyg)
 
 <h3 align="left"> 2020 </h3>
 
-- [Detection of a Disk Surrounding the Variably Accreting Young Star HBC722](https://iopscience.iop.org/article/10.3847/2515-5172/abb813)
-- [Developing CCD Camera Linearity Corrections for the Fredonia Observatory](https://github.com/zachtheyek/CCD-Linearity/blob/master/Yek_Dunham_2020.pdf)
+- [(Journal) Detection of a Disk Surrounding the Variably Accreting Young Star HBC722](https://iopscience.iop.org/article/10.3847/2515-5172/abb813)
+- [(White paper) Developing CCD Camera Linearity Corrections for the Fredonia Observatory](https://github.com/zachtheyek/CCD-Linearity/blob/master/Yek_Dunham_2020.pdf)
 
 <br>
 
