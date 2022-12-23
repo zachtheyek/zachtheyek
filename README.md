@@ -10,7 +10,7 @@
 - :mortar_board: &nbsp;Completing a **B.S.** in **Theoretical Physics**
 - :man_scientist: &nbsp;Research interests: **Stellar Astronomy** & **SETI**
 - :robot: &nbsp;Passionate about solving **high-risk**, **high-impact** problems
-- :fire: &nbsp;Favorite libraries: **Pandas**, **Numpy**, **Scikit-Learn**, **PyTorch**, **TensorFlow**, **XGBoost**, **Matplotlib**, **Seaborn**
+- :fire: &nbsp;Favorite libraries: **Pandas**, **NumPy**, **Scikit-learn**, **XGBoost**, **PyTorch/Lightning**, **TensorFlow/Keras**, **Matplotlib**, **Seaborn**
 - :computer: &nbsp;Check out my **[Website](https://zachtheyek.github.io/)**
 - :mailbox_with_mail: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/zachtheyek/)**
 
