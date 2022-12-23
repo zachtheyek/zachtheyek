@@ -1,5 +1,5 @@
 <h1 align="left" id="zachtheyek-title">:wave: Zach Yek (he/him)</h1>
-<h3 align="left">Data Scientist @ SUNY Fredonia, Ex-Berkeley </h3>
+<h3 align="left">Research Lead @ SUNY Fredonia, Ex-Berkeley </h3>
 
 
 <a href="#zachtheyek-title">
