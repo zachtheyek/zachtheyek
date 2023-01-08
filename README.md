@@ -43,8 +43,8 @@
 <h2 align="left">:battery: Featured repositories: </h2>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zachtheyek&repo=Protostellar-Luminosity&theme=react)](https://github.com/zachtheyek/Protostellar-Luminosity)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zachtheyek&repo=autoSETI&theme=react)](https://github.com/zachtheyek/autoSETI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zachtheyek&repo=StackOverflow-User-Analysis&theme=react)](https://github.com/zachtheyek/StackOverflow-User-Analysis)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zachtheyek&repo=Anime-Rec-Bot&theme=react)](https://github.com/zachtheyek/Anime-Rec-Bot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zachtheyek&repo=HBC722&theme=react)](https://github.com/zachtheyek/HBC722)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zachtheyek&repo=CCD-Linearity&theme=react)](https://github.com/zachtheyek/CCD-Linearity)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zachtheyek&repo=Anime-Rec-Bot&theme=react)](https://github.com/zachtheyek/Anime-Rec-Bot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zachtheyek&repo=Lanczos-Algorithm&theme=react)](https://github.com/zachtheyek/Lanczos-Algorithm)
