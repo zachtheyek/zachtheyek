@@ -1,16 +1,16 @@
 <h1 align="left" id="zachtheyek-title">:wave: Zach Yek (he/him)</h1>
-<h3 align="left">Research Lead @ SUNY Fredonia, Ex-Berkeley </h3>
+<h3 align="left">Fredonia Physics, Ex-Berkeley </h3>
 
 
 <a href="#zachtheyek-title">
   <img src="https://github-readme-stats.vercel.app/api?username=zachtheyek&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="zachtheyek's GitHub stats" align="right" />
 </a>
 
-- :pushpin: &nbsp;Currently based in **Buffalo, NY**
-- :mortar_board: &nbsp;Completing a **B.S.** in **Theoretical Physics**
-- :man_scientist: &nbsp;Research interests: **Stellar Astronomy** & **SETI**
-- :robot: &nbsp;Passionate about solving **high-risk**, **high-impact** problems
-- :fire: &nbsp;Favorite libraries: **Pandas**, **NumPy**, **Scikit-learn**, **XGBoost**, **PyTorch/Lightning**, **TensorFlow/Keras**, **Matplotlib**, **Seaborn**
+- :pushpin: &nbsp;Currently based in **Kuala Lumpur, Malaysia**
+- :mortar_board: &nbsp;**B.S.** in **Theoretical Physics** (minor in **mathematics**)
+- :man_scientist: &nbsp;Research interests: **Computer Vision** & **NLP**
+- :robot: &nbsp;Passionate about solving **structured**, **high-impact** problems
+- :fire: &nbsp;Favorite libraries: **Pandas**, **NumPy**, **Scikit-learn**, **XGBoost**, **PyTorch**, **TensorFlow**, **Matplotlib**, **Seaborn**
 - :computer: &nbsp;Check out my **[Website](https://zachtheyek.github.io/)**
 - :mailbox_with_mail: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/zachtheyek/)**
 
