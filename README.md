@@ -48,3 +48,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zachtheyek&repo=StackOverflow-User-Analysis&theme=react)](https://github.com/zachtheyek/StackOverflow-User-Analysis)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zachtheyek&repo=CCD-Linearity&theme=react)](https://github.com/zachtheyek/CCD-Linearity)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zachtheyek&repo=Lanczos-Algorithm&theme=react)](https://github.com/zachtheyek/Lanczos-Algorithm)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zachtheyek&repo=HBC722&theme=react)](https://github.com/zachtheyek/HBC722)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zachtheyek&repo=autoSETI&theme=react)](https://github.com/zachtheyek/autoSETI)
