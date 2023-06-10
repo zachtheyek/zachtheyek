@@ -7,7 +7,7 @@
 </a>
 
 - :pushpin: &nbsp;Currently based in **Kuala Lumpur, Malaysia**
-- :mortar_board: &nbsp;**B.S.** in **Theoretical Physics** (minor in **mathematics**)
+- :mortar_board: &nbsp;**B.S.** in **Theoretical Physics** (minor in **Mathematics**)
 - :man_scientist: &nbsp;Research interests: **Computer Vision** & **NLP**
 - :robot: &nbsp;Passionate about solving **complex**, **structured**, **high-impact** problems
 - :fire: &nbsp;Favorite libraries: **Pandas**, **NumPy**, **Scikit-learn**, **XGBoost**, **PyTorch**, **TensorFlow**, **Matplotlib**, **Seaborn**
