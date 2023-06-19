@@ -8,7 +8,7 @@
 
 - :pushpin: &nbsp;Currently based in **Kuala Lumpur, Malaysia**
 - :mortar_board: &nbsp;**B.S.** in **Theoretical Physics** (minor in **Mathematics**)
-- :man_scientist: &nbsp;Research interests: **Computer Vision** & **NLP**
+- :man_scientist: &nbsp;Specializations: **EDA**, **A/B Testing**, **Predictive Modeling**
 - :robot: &nbsp;Passionate about solving **complex**, **structured**, **high-impact** problems
 - :fire: &nbsp;Favorite libraries: **Pandas**, **NumPy**, **Scikit-learn**, **XGBoost**, **PyTorch**, **TensorFlow**, **Matplotlib**, **Seaborn**
 - :computer: &nbsp;Check out my **[Website](https://zachtheyek.github.io/)**
