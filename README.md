@@ -8,7 +8,7 @@
 
 - :pushpin: &nbsp;Currently based in **Kuala Lumpur, Malaysia**
 - :mortar_board: &nbsp;**BSc** in **Theoretical Physics** (minor in **Mathematics**)
-- :robot: &nbsp;Passionate about solving **complex**, **unstructured**, **high-impact** problems
+- :robot: &nbsp;Passionate about solving **complex**, **unstructured**, **high-impact** data problems
 - :computer: &nbsp;Check out my **[Website](https://zachtheyek.github.io/)**
 - :mailbox_with_mail: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/zachtheyek/)**
 
