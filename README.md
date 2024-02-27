@@ -1,24 +1,18 @@
 <h1 align="left" id="zachtheyek-title">:wave: Zach Yek (he/him)</h1>
-<h3 align="left">Data Scientist @ MoneyLion | Fredonia Physics | Ex-Berkeley </h3>
-
+<h3 align="left">Senior Data Scientist / Quantitative Researcher @ Thanefield Capital</h3>
+<h4 align="left">Ex-MoneyLion, Ex-Berkeley</h4>
 
 <a href="#zachtheyek-title">
   <img src="https://github-readme-stats.vercel.app/api?username=zachtheyek&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="zachtheyek's GitHub stats" align="right" />
 </a>
 
 - :pushpin: &nbsp;Currently based in **Kuala Lumpur, Malaysia**
-- :mortar_board: &nbsp;**B.S.** in **Theoretical Physics** (minor in **Mathematics**)
+- :mortar_board: &nbsp;**BSc** in **Theoretical Physics** (minor in **Mathematics**)
 - :man_scientist: &nbsp;Specializations: **EDA**, **A/B Testing**, **Predictive Modeling**
-- :robot: &nbsp;Passionate about solving **complex**, **structured**, **high-impact** problems
+- :robot: &nbsp;Passionate about solving **complex**, **unstructured**, **high-impact** problems
 - :fire: &nbsp;Favorite libraries: **Pandas**, **NumPy**, **Scikit-learn**, **XGBoost**, **PyTorch**, **TensorFlow**, **Matplotlib**, **Seaborn**
 - :computer: &nbsp;Check out my **[Website](https://zachtheyek.github.io/)**
 - :mailbox_with_mail: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/zachtheyek/)**
-
-<br>
-
-<a href="#zachtheyek-title">
-  <img src="https://activity-graph.herokuapp.com/graph?username=zachtheyek&theme=react-dark" alt="zachtheyek's GitHub activity graph" />
-</a>
 
 <br>
 
