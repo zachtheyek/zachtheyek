@@ -1,6 +1,6 @@
 <h1 align="left" id="zachtheyek-title">:wave: Zach Yek (he/him)</h1>
 <h3 align="left">Senior Data Scientist / Quantitative Researcher @ Thanefield Capital</h3>
-<h4 align="left">Ex-MoneyLion, Ex-Berkeley</h4>
+<h4 align="left">Ex-(MoneyLion, Berkeley)</h4>
 
 <a href="#zachtheyek-title">
   <img src="https://github-readme-stats.vercel.app/api?username=zachtheyek&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="zachtheyek's GitHub stats" align="right" />
