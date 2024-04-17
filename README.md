@@ -1,5 +1,5 @@
 <h1 align="left" id="zachtheyek-title">:wave: Zach Yek (he/him)</h1>
-<h3 align="left">Senior Data Scientist / Quantitative Researcher @ Thanefield Capital</h3>
+<h3 align="left">Lead Data Scientist & Quantitative Researcher @ Thanefield Capital</h3>
 <h4 align="left">Ex-(MoneyLion, Berkeley)</h4>
 
 <a href="#zachtheyek-title">
