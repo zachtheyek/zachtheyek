@@ -3,7 +3,7 @@
 <h4 align="left">Ex-(MoneyLion, Berkeley)</h4>
 
 <a href="#zachtheyek-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=zachtheyek&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="zachtheyek's GitHub stats" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zachtheyek&show_icons=true&theme=react&rank_icon=github&count_private=true&include_all_commits=true&hide=prs,issues" alt="zachtheyek's GitHub stats" align="right" />
 </a>
 
 - :pushpin: &nbsp;Currently based in **Kuala Lumpur, Malaysia**
@@ -11,6 +11,8 @@
 - :robot: &nbsp;Passionate about solving **complex**, **unstructured**, **high-impact** data problems
 - :computer: &nbsp;Check out my **[Website](https://zachtheyek.github.io/)**
 - :mailbox_with_mail: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/zachtheyek/)**
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zachtheyek&size_weight=0.5&count_weight=0.5&layout=compact&theme=react" align="right" />
 
 <br>
 
