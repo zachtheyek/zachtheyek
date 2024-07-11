@@ -12,7 +12,9 @@
 - :computer: &nbsp;Check out my **[Website](https://zachtheyek.github.io/)**
 - :calling: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/zachtheyek/)**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zachtheyek&size_weight=0.5&count_weight=0.5&layout=compact&theme=react" align="right" />
+<a href="#zachtheyek-title">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zachtheyek&size_weight=0.5&count_weight=0.5&layout=compact&theme=react" alt="zachtheyek's Top Languages" align="right" />
+</a>
 
 <br>
 
