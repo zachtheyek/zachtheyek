@@ -1,5 +1,5 @@
 <h1 align="left" id="zachtheyek-title">:wave: Zach Yek</h1>
-<h3 align="left">Lead Data Scientist @ Trontal Group, Quantitative Researcher @ Thanefield Capital</h3>
+<h3 align="left">Data Lead @ Trontal Group, Quant Researcher @ Thanefield Capital</h3>
 
 <a href="#zachtheyek-title">
   <img src="https://github-readme-stats.vercel.app/api?username=zachtheyek&show_icons=true&theme=react&rank_icon=github&count_private=true&include_all_commits=true&hide=prs,issues" alt="zachtheyek's GitHub stats"/>
