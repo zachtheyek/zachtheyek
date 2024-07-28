@@ -2,17 +2,13 @@
 <h3 align="left">Lead Data Scientist @ Trontal Group, Quantitative Researcher @ Thanefield Capital</h3>
 
 <a href="#zachtheyek-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=zachtheyek&show_icons=true&theme=react&rank_icon=github&count_private=true&include_all_commits=true&hide=prs,issues" alt="zachtheyek's GitHub stats" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zachtheyek&show_icons=true&theme=react&rank_icon=github&count_private=true&include_all_commits=true&hide=prs,issues" alt="zachtheyek's GitHub stats"/>
 </a>
 
-- :pushpin: &nbsp;Currently based in **Kuala Lumpur, Malaysia**
-- :mortar_board: &nbsp;**BSc** in **Theoretical Physics** (minor in **Mathematics**)
-- :bulb: &nbsp;Passionate about solving **complex**, **unstructured**, **high-impact** data problems
-- :computer: &nbsp;Check out my **[Website](https://zachtheyek.github.io/)**
-- :calling: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/zachtheyek/)**
+<br>
 
 <a href="#zachtheyek-title">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zachtheyek&size_weight=0.5&count_weight=0.5&layout=compact&theme=react" alt="zachtheyek's Top Languages" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zachtheyek&size_weight=0.5&count_weight=0.5&layout=compact&theme=react" alt="zachtheyek's Top Languages"/>
 </a>
 
 <br>
