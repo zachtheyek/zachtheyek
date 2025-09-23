@@ -33,11 +33,9 @@
 
 <h3 align="left">:robot: Featured repositories: </h2>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zachtheyek&repo=Ether-Scan&theme=react)](https://github.com/zachtheyek/Ether-Scan)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zachtheyek&repo=Protostellar-Luminosity&theme=react)](https://github.com/zachtheyek/Protostellar-Luminosity)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zachtheyek&repo=Core-Fragmentation&theme=react)](https://github.com/zachtheyek/Core-Fragmentation)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zachtheyek&repo=Anime-Rec-Bot&theme=react)](https://github.com/zachtheyek/Anime-Rec-Bot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zachtheyek&repo=StackOverflow-User-Analysis&theme=react)](https://github.com/zachtheyek/StackOverflow-User-Analysis)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zachtheyek&repo=CCD-Linearity&theme=react)](https://github.com/zachtheyek/CCD-Linearity)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zachtheyek&repo=Lanczos-Algorithm&theme=react)](https://github.com/zachtheyek/Lanczos-Algorithm)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zachtheyek&repo=HBC722&theme=react)](https://github.com/zachtheyek/HBC722)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zachtheyek&repo=Less-Marvellous-Suspender&theme=react)](https://github.com/zachtheyek/Less-Marvellous-Suspender)
