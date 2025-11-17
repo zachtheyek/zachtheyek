@@ -15,17 +15,8 @@
 
 <h3 align="left">:writing_hand: Publications: </h2>
 
-<h4 align="left"> 2022 </h3>
-
 - [(White paper) Measuring Protostellar Luminosities](https://github.com/zachtheyek/Protostellar-Luminosity/blob/master/zach_yek_honors_thesis.pdf)
-
-<h4 align="left"> 2021 </h3>
-
 - [(Conference) Dynamic Spectra Sequence Modelling with Transformers](https://zenodo.org/record/5269160#.Yc9rzBNKjyh)
-- [(Conference) Dynamic Spectra Sequence Modelling with Transformers](https://zenodo.org/record/5146378#.Yc-J6RPMLyg)
-
-<h4 align="left"> 2020 </h3>
-
 - [(Journal) Detection of a Disk Surrounding the Variably Accreting Young Star HBC722](https://iopscience.iop.org/article/10.3847/2515-5172/abb813)
 - [(White paper) Developing CCD Camera Linearity Corrections for the Fredonia Observatory](https://github.com/zachtheyek/CCD-Linearity/blob/master/Yek_Dunham_2020.pdf)
 
