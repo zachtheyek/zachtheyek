@@ -5,6 +5,8 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zachtheyek&theme=catppuccin_mocha&card_width=320&rank_icon=percentile&hide_rank=true&show_icons=true&hide=null&count_private=true&include_all_commits=true" alt="zachtheyek's GitHub stats" />
 </a>
 
+<br>
+
 <a href="#zachtheyek-title-2">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zachtheyek&theme=catppuccin_mocha&card_width=320&layout=compact&langs_count=6&hide=jupyter%20notebook,tex,html,css&stats_format=percentages&size_weight=0.5&count_weight=0.5&exclude_repo=zachtheyek.github.io" alt="zachtheyek's Top Languages" />
 </a>
