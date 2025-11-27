@@ -13,7 +13,7 @@
 
 <h3 align="left">:writing_hand: Publications: </h2>
 
-- [(White paper) Measuring Protostellar Luminosities](https://github.com/zachtheyek/Protostellar-Luminosity/blob/master/zach_yek_honors_thesis.pdf)
+- [(White paper) Finding Indirect Methods for Measuring Protostellar Luminosities](https://github.com/zachtheyek/Protostellar-Luminosity/blob/master/zach_yek_honors_thesis.pdf)
 - [(Conference) Dynamic Spectra Sequence Modelling with Transformers](https://zenodo.org/record/5269160#.Yc9rzBNKjyh)
 - [(Journal) Detection of a Disk Surrounding the Variably Accreting Young Star HBC722](https://iopscience.iop.org/article/10.3847/2515-5172/abb813)
 - [(White paper) Developing CCD Camera Linearity Corrections for the Fredonia Observatory](https://github.com/zachtheyek/CCD-Linearity/blob/master/Yek_Dunham_2020.pdf)
