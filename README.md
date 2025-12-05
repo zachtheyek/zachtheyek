@@ -24,7 +24,5 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zachtheyek&repo=Aetherscan&theme=catppuccin_mocha)](https://github.com/zachtheyek/Ether-Scan)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zachtheyek&repo=Protostellar-Luminosity&theme=catppuccin_mocha)](https://github.com/zachtheyek/Protostellar-Luminosity)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zachtheyek&repo=Core-Fragmentation&theme=catppuccin_mocha)](https://github.com/zachtheyek/Core-Fragmentation)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zachtheyek&repo=Anime-Rec-Bot&theme=catppuccin_mocha)](https://github.com/zachtheyek/Anime-Rec-Bot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zachtheyek&repo=CCD-Linearity&theme=catppuccin_mocha)](https://github.com/zachtheyek/CCD-Linearity)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zachtheyek&repo=Lanczos-Algorithm&theme=catppuccin_mocha)](https://github.com/zachtheyek/Lanczos-Algorithm)
