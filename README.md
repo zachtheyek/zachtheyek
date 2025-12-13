@@ -6,7 +6,7 @@
 </a>
 
 <a href="#zachtheyek-title-2">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zachtheyek&theme=catppuccin_mocha&card_width=320&layout=compact&langs_count=6&hide=jupyter%20notebook,tex,html,css&stats_format=percentages&size_weight=0.5&count_weight=0.5&exclude_repo=zachtheyek.github.io" alt="zachtheyek's Top Languages" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zachtheyek&theme=catppuccin_mocha&card_width=320&layout=compact&langs_count=6&hide=jupyter%20notebook,mathematica,tex,html,css&stats_format=percentages&size_weight=0.5&count_weight=0.5&exclude_repo=zachtheyek.github.io" alt="zachtheyek's Top Languages" />
 </a>
 
 <br>
