@@ -11,18 +11,18 @@
 
 <br>
 
-<h3 align="left">:writing_hand: Publications: </h2>
-
-- [(White paper) Finding Indirect Methods for Measuring Protostellar Luminosities](https://github.com/zachtheyek/Protostellar-Luminosity/blob/master/zach_yek_honors_thesis.pdf)
-- [(Conference) Dynamic Spectra Sequence Modelling with Transformers](https://zenodo.org/record/5269160#.Yc9rzBNKjyh)
-- [(Journal) Detection of a Disk Surrounding the Variably Accreting Young Star HBC722](https://iopscience.iop.org/article/10.3847/2515-5172/abb813)
-- [(White paper) Developing CCD Camera Linearity Corrections for the Fredonia Observatory](https://github.com/zachtheyek/CCD-Linearity/blob/master/Yek_Dunham_2020.pdf)
-
-<br>
-
 <h3 align="left">:robot: Featured repositories: </h2>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zachtheyek&repo=Aetherscan&theme=catppuccin_mocha)](https://github.com/zachtheyek/Ether-Scan)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zachtheyek&repo=Protostellar-Luminosity&theme=catppuccin_mocha)](https://github.com/zachtheyek/Protostellar-Luminosity)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zachtheyek&repo=CCD-Linearity&theme=catppuccin_mocha)](https://github.com/zachtheyek/CCD-Linearity)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zachtheyek&repo=Lanczos-Algorithm&theme=catppuccin_mocha)](https://github.com/zachtheyek/Lanczos-Algorithm)
+
+<br> 
+
+<h3 align="left">:writing_hand: Publications: </h2>
+
+- [(White paper) Finding Indirect Methods for Measuring Protostellar Luminosities](https://github.com/zachtheyek/Protostellar-Luminosity/blob/master/zach_yek_honors_thesis.pdf)
+- [(Conference) Dynamic Spectra Sequence Modelling with Transformers](https://zenodo.org/record/5269160#.Yc9rzBNKjyh)
+- [(Journal) Detection of a Disk Surrounding the Variably Accreting Young Star HBC722](https://iopscience.iop.org/article/10.3847/2515-5172/abb813)
+- [(White paper) Developing CCD Camera Linearity Corrections for the Fredonia Observatory](https://github.com/zachtheyek/CCD-Linearity/blob/master/Yek_Dunham_2020.pdf)
