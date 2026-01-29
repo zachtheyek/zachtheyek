@@ -9,15 +9,6 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zachtheyek&theme=catppuccin_mocha&card_width=320&layout=compact&langs_count=6&hide=jupyter%20notebook,mathematica,tex,html,css&stats_format=percentages&size_weight=0.5&count_weight=0.5&exclude_repo=zachtheyek.github.io" alt="zachtheyek's Top Languages" />
 </a>
 
-<br>
-
-<h3 align="left">:robot: Featured repositories: </h2>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zachtheyek&repo=Aetherscan&theme=catppuccin_mocha)](https://github.com/zachtheyek/Ether-Scan)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zachtheyek&repo=Protostellar-Luminosity&theme=catppuccin_mocha)](https://github.com/zachtheyek/Protostellar-Luminosity)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zachtheyek&repo=CCD-Linearity&theme=catppuccin_mocha)](https://github.com/zachtheyek/CCD-Linearity)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zachtheyek&repo=Lanczos-Algorithm&theme=catppuccin_mocha)](https://github.com/zachtheyek/Lanczos-Algorithm)
-
 <br> 
 
 <h3 align="left">:writing_hand: Publications: </h2>
