@@ -13,6 +13,7 @@
 
 <h3 align="left">:writing_hand: Publications: </h2>
 
+- [(Journal) Estimating the Luminosities of Protostars with Limited Infrared Photometry](https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/stag685/8653341)
 - [(White paper) Finding Indirect Methods for Measuring Protostellar Luminosities](https://github.com/zachtheyek/Protostellar-Luminosity/blob/master/zach_yek_honors_thesis.pdf)
 - [(Journal) Detection of a Disk Surrounding the Variably Accreting Young Star HBC722](https://iopscience.iop.org/article/10.3847/2515-5172/abb813)
 - [(White paper) Developing CCD Camera Linearity Corrections for the Fredonia Observatory](https://github.com/zachtheyek/CCD-Linearity/blob/master/Yek_Dunham_2020.pdf)
